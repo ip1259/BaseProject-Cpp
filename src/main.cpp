@@ -36,3 +36,8 @@ int getTriangleType(int a, int b, int c) {
     }
     return -3;
 }
+
+int a_mod_B(int a, int b)
+{
+    return a%b;
+}

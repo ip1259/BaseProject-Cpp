@@ -6,7 +6,7 @@ void testGetTriangleType() {
 }
 
 int main() {
-    assert(addNumber(5, 2) == 7);
+    assert(a_mod_B(6, 4) == 2);
     testGetTriangleType();
     return 0;
 }
